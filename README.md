@@ -20,3 +20,4 @@ SKIP for Now
 This algorithm is very simple. So to get this working, we have to set up a variable which hold the actual reversed result and firsly initialise it to 0. Next we use the formula (res*10) + Input%10, and after you upate the input value with the forumal of Inputvalue = InputValue/10.
 # HashMap
 This is the concept of Key-Value pair
+# Vectors
